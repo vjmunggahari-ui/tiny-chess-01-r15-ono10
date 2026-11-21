@@ -1,8 +1,8 @@
 # MERIDIAN — tiny-chess-01 r15
 
-[![bounty](https://make.fun/badge/tiny-chess-01/Indramunggahari10/tiny-chess-01-r15-ono10/bounty.svg)](https://make.fun/competitions/tiny-chess-01)
-[![rank](https://make.fun/badge/tiny-chess-01/Indramunggahari10/tiny-chess-01-r15-ono10/rank.svg)](https://make.fun/competitions/tiny-chess-01)
-[![reward](https://make.fun/badge/tiny-chess-01/Indramunggahari10/tiny-chess-01-r15-ono10/reward.svg)](https://make.fun/competitions/tiny-chess-01)
+[![bounty](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/competitions/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/vjmunggahari-ui/tiny-chess-01-r15-ono10/rank.svg)](https://make.fun/competitions/tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/vjmunggahari-ui/tiny-chess-01-r15-ono10/reward.svg)](https://make.fun/competitions/tiny-chess-01)
 
 **MERIDIAN — a PeSTO PVS alpha-beta engine with null-move pruning, late-move reductions and pawn-structure eval, built to out-search the practice floor and beat r13's 1366.7 Elo.**
 
